@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "517981565770",
+    "firebase_url": "https://skyballoon-ab8e5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "skyballoon-ab8e5",
+    "storage_bucket": "skyballoon-ab8e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517981565770:android:888f5252b720070f55c7b3",
+        "android_client_info": {
+          "package_name": "com.example.gps_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3DlvG5aGExd1hcgxIm8Ptoltr_zIMvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517981565770:android:8e7584f03b573dc155c7b3",
+        "android_client_info": {
+          "package_name": "com.example.my_balloon_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3DlvG5aGExd1hcgxIm8Ptoltr_zIMvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517981565770:android:9173dcdef3971de555c7b3",
+        "android_client_info": {
+          "package_name": "com.example.sky_vision_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF3DlvG5aGExd1hcgxIm8Ptoltr_zIMvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
