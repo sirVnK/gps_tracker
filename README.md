@@ -1,4 +1,4 @@
-# gps_tracker — Flutter GPS Tracking UI Demo
+# Flutter GPS Telemetry UI Demo
 
 A minimal Flutter app that generates fake GPS data locally and renders a moving marker on OpenStreetMap. It's a UI demo — useful for prototyping map/telemetry interfaces without hardware or a backend.
 
@@ -26,7 +26,7 @@ When building telemetry-style interfaces (like the map views in my SkyVision cas
 ## Installation
 
 ```bash
-git clone https://github.com/Logshi/gps_tracker.git
+git clone https://github.com/sirVnK/gps_tracker.git
 cd gps_tracker
 flutter pub get
 ```
